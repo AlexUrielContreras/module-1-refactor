@@ -8,7 +8,7 @@
 
 <h2>Screenshots</h2>
 <h3> Hero section <h3>
-<img src="./assets/css/images/top-half-site.png" />
+<img src="./assets/images/top-half-site.png" />
 
 <h3>Content section</h3>
-<img src="./assets/css/images/bottom-half-site.png" />
+<img src="./assets/images/bottom-half-site.png" />
